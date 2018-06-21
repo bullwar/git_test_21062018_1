@@ -1,3 +1,2 @@
 Sout(Hello);
 Sout(Hello All);
-print(Привет)
